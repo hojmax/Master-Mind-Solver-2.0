@@ -8,4 +8,4 @@ Numbers 0-6 - Used for inputting the different colors and clues. (If there is no
 Backspace - For removing filled placeholders.
 <br/>
 <br/>
-**Note *:** I assume it to be optimal, but i am more than happy to be corrected. 
+***Note:** I assume it to be optimal, but i am more than happy to be corrected. 
