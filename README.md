@@ -9,4 +9,11 @@ Backspace - For removing filled placeholders.
 <br/>
 <br/>
 ***Note:** I assume it to be optimal, but i am more than happy to be corrected. 
+<br/>
+<br/>
+**Performance:** <br/>
+Moves needed | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+--- | --- | --- | --- |--- |---
+Games | 1 | 15 | 79 | 396 | 479 | 29 | 1 | 0 | 0 | 0
+Average moves needed: 4.428
 <img src="https://github.com/hojmax/Master-Mind-Solver-2.0/blob/main/images/1000sim.png">
