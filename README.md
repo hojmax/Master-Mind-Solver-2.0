@@ -9,3 +9,4 @@ Backspace - For removing filled placeholders.
 <br/>
 <br/>
 ***Note:** I assume it to be optimal, but i am more than happy to be corrected. 
+<img src="https://github.com/hojmax/Master-Mind-Solver-2.0/blob/main/images/1000sim.png">
