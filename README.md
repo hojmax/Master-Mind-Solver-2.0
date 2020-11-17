@@ -18,4 +18,4 @@ Moves needed | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Games | 1 | 15 | 79 | 396 | 479 | 29 | 1 | 0 | 0 | 0
 
-***Note:** I assume it to be optimal, but i am more than happy to be corrected. 
+***Note:** I assume it to be optimal. 
