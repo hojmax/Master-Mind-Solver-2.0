@@ -10,10 +10,10 @@ let board = [
   [-1, -1, -1, -1, -1, -1],
   [-1, -1, -1, -1, -1, -1],
   [-1, -1, -1, -1, -1, -1],
-  [1, 1, 2, 2, -1, -1]
+  [-1, -1, -1, -1, -1, -1]
 ]
 
-let highlightJ = 4
+let highlightJ = 0
 let hightlightI = 9
 let validInput = false
 let buttonX = scale + 2 * spacing
