@@ -6,7 +6,7 @@ Master Mind solver for the standard version with 6 colors and 4 placements. The 
 For optimal play, start the game with any move following a XXYY partern in colors. It has been proved superior to both XXYZ amd XYZW. <br/>
 ### Controls:
 **Arrows keys** - Moves around the grid.<br/>
-**Enter** - Runs the solver (Like the “Run” button it only works when a valid input has been made.)<br/>
+**Enter** - Runs the solver (Like the “Run” button it only activates when a valid input has been made.)<br/>
 **Numbers 0-6** - Inputs the different colors and clues. (If there is no black or white feedback, zero must be entered in the respective column)<br/>
 **Backspace** - Removes filled placeholders.
 ## Performance
