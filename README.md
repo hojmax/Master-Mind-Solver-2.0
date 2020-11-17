@@ -1,6 +1,6 @@
 # Master-Mind-Solver-2.0
 ## General
-### Resume
+### Overview
 Master Mind solver for the standard version with 6 colors and 4 placements. The solver plays optimal<sup>*</sup> by continually finding the move that on average decreases the solution space the furthest.
 ### Optimal starting move
 For optimal play, start the game with any move following a XXYY partern in colors. It has been proved superior to both XXYZ amd XYZW. <br/>
