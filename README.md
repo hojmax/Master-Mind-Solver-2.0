@@ -8,7 +8,7 @@ For optimal play, start the game with any move following a XXYY partern in color
 **Arrows keys** - Moves around the grid.<br/>
 **Enter** - Runs the solver (Like the “Run” button it only activates when a valid input has been made.)<br/>
 **Numbers 0-6** - Inputs the different colors and clues. (If there is no black or white feedback, zero must be entered in the respective column)<br/>
-**Backspace** - Removes filled placeholders.
+**Backspace** - Clears pegs
 ## Performance
 Average moves needed for solve: **4.428**
 ### 1000 simulations test:
