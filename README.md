@@ -2,7 +2,7 @@
 ## General
 ### Overview
 Master Mind solver for the standard version with 6 colors and 4 placements. The solver plays optimal<sup>*</sup> by continually finding the move that on average decreases the solution space the furthest.
-### Optimal starting move
+### Optimal Starting Move
 For optimal play, start the game with any move following a XXYY partern in colors. It has been proved superior to both XXYZ amd XYZW. <br/>
 ### Controls:
 **Arrows keys** - Moves around the grid.<br/>
@@ -11,7 +11,7 @@ For optimal play, start the game with any move following a XXYY partern in color
 **Backspace** - Clears pegs
 ## Performance
 Average moves needed for solve: **4.428**
-### 1000 simulations test:
+### 1000 Games Simulation:
 <img src="https://github.com/hojmax/Master-Mind-Solver-2.0/blob/main/images/1000sim.png">
 
 Moves needed | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
