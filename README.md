@@ -13,6 +13,7 @@ For optimal play, start the game with any move following a XXYY partern in color
 Average moves needed for solve: **4.428**
 ### 1000 simulations test:
 <img src="https://github.com/hojmax/Master-Mind-Solver-2.0/blob/main/images/1000sim.png">
+
 Moves needed | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Games | 1 | 15 | 79 | 396 | 479 | 29 | 1 | 0 | 0 | 0
